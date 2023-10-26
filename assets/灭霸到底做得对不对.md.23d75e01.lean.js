@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as _,Q as a}from"./chunks/framework.9e4cf7f6.js";const f=JSON.parse('{"title":"灭霸到底做得对不对","description":"","frontmatter":{},"headers":[],"relativePath":"灭霸到底做得对不对.md","filePath":"灭霸到底做得对不对.md"}'),p={name:"灭霸到底做得对不对.md"},o=a("",12),r=[o];function s(c,n,i,d,l,h){return t(),_("div",null,r)}const u=e(p,[["render",s]]);export{f as __pageData,u as default};

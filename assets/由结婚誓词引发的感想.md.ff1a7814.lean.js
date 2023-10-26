@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,Q as e}from"./chunks/framework.9e4cf7f6.js";const u=JSON.parse('{"title":"由结婚誓词引发的感想","description":"","frontmatter":{},"headers":[],"relativePath":"由结婚誓词引发的感想.md","filePath":"由结婚誓词引发的感想.md"}'),p={name:"由结婚誓词引发的感想.md"},l=e("",4),o=[l];function c(t,r,i,y,_,d){return n(),a("div",null,o)}const m=s(p,[["render",c]]);export{u as __pageData,m as default};

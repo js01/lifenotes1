@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as p,Q as _}from"./chunks/framework.9e4cf7f6.js";const f=JSON.parse('{"title":"鲁迅先生的名言","description":"","frontmatter":{},"headers":[],"relativePath":"鲁迅先生的名言.md","filePath":"鲁迅先生的名言.md"}'),a={name:"鲁迅先生的名言.md"},o=_("",13),r=[o];function s(c,n,i,d,l,h){return t(),p("div",null,r)}const u=e(a,[["render",s]]);export{f as __pageData,u as default};

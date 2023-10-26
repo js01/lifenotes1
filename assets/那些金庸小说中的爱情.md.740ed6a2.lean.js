@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,Q as e}from"./chunks/framework.9e4cf7f6.js";const v=JSON.parse('{"title":"那些金庸小说中的爱情","description":"","frontmatter":{},"headers":[],"relativePath":"那些金庸小说中的爱情.md","filePath":"那些金庸小说中的爱情.md"}'),p={name:"那些金庸小说中的爱情.md"},l=e("",10),c=[l];function o(t,i,r,d,y,h){return n(),a("div",null,c)}const u=s(p,[["render",o]]);export{v as __pageData,u as default};

@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as e,Q as n}from"./chunks/framework.9e4cf7f6.js";const y=JSON.parse('{"title":"读一读李清照的词","description":"","frontmatter":{},"headers":[],"relativePath":"读一读李清照的词.md","filePath":"读一读李清照的词.md"}'),l={name:"读一读李清照的词.md"},p=n("",13),o=[p];function c(t,i,r,d,h,u){return a(),e("div",null,o)}const _=s(l,[["render",c]]);export{y as __pageData,_ as default};

@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,Q as e}from"./chunks/framework.9e4cf7f6.js";const u=JSON.parse('{"title":"杨开慧写给丈夫的信","description":"","frontmatter":{},"headers":[],"relativePath":"杨开慧写给丈夫的信.md","filePath":"杨开慧写给丈夫的信.md"}'),p={name:"杨开慧写给丈夫的信.md"},l=e("",6),o=[l];function c(t,i,r,y,d,_){return n(),a("div",null,o)}const g=s(p,[["render",c]]);export{u as __pageData,g as default};

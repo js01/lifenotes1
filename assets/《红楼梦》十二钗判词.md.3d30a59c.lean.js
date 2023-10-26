@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,Q as r}from"./chunks/framework.9e4cf7f6.js";const b=JSON.parse('{"title":"《红楼梦》十二钗判词","description":"","frontmatter":{},"headers":[],"relativePath":"《红楼梦》十二钗判词.md","filePath":"《红楼梦》十二钗判词.md"}'),o={name:"《红楼梦》十二钗判词.md"},h=r("",23),i=[h];function l(n,d,s,c,_,p){return e(),t("div",null,i)}const q=a(o,[["render",l]]);export{b as __pageData,q as default};

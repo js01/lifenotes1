@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as s,Q as t}from"./chunks/framework.9e4cf7f6.js";const m=JSON.parse('{"title":"我其实最怕的是衰老","description":"","frontmatter":{},"headers":[],"relativePath":"我其实最怕的是衰老.md","filePath":"我其实最怕的是衰老.md"}'),o={name:"我其实最怕的是衰老.md"},c=t("",5),n=[c];function p(_,r,i,l,d,h){return a(),s("div",null,n)}const f=e(o,[["render",p]]);export{m as __pageData,f as default};

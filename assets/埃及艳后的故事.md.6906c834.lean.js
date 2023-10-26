@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as _,Q as a}from"./chunks/framework.9e4cf7f6.js";const f=JSON.parse('{"title":"埃及艳后的故事","description":"","frontmatter":{},"headers":[],"relativePath":"埃及艳后的故事.md","filePath":"埃及艳后的故事.md"}'),p={name:"埃及艳后的故事.md"},o=a("",12),r=[o];function s(c,n,i,d,l,h){return t(),_("div",null,r)}const u=e(p,[["render",s]]);export{f as __pageData,u as default};

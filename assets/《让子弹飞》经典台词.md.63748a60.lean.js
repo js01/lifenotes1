@@ -1,0 +1,1 @@
+import{_ as p,o as t,c as e,Q as _}from"./chunks/framework.9e4cf7f6.js";const f=JSON.parse('{"title":"《让子弹飞》经典台词","description":"","frontmatter":{},"headers":[],"relativePath":"《让子弹飞》经典台词.md","filePath":"《让子弹飞》经典台词.md"}'),a={name:"《让子弹飞》经典台词.md"},o=_("",21),r=[o];function s(c,n,d,m,i,l){return t(),e("div",null,r)}const u=p(a,[["render",s]]);export{f as __pageData,u as default};
