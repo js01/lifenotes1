@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,Q as e}from"./chunks/framework.9e4cf7f6.js";const u=JSON.parse('{"title":"鲁迅先生的遗言","description":"","frontmatter":{},"headers":[],"relativePath":"鲁迅先生的遗言.md","filePath":"鲁迅先生的遗言.md"}'),l={name:"鲁迅先生的遗言.md"},p=e("",2),o=[p];function c(t,r,i,_,d,y){return n(),a("div",null,o)}const m=s(l,[["render",c]]);export{u as __pageData,m as default};
