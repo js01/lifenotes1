@@ -1,0 +1,1 @@
+import{_ as s,o as e,c as a,Q as p}from"./chunks/framework.9e4cf7f6.js";const u=JSON.parse('{"title":"采薇","description":"","frontmatter":{},"headers":[],"relativePath":"采薇.md","filePath":"采薇.md"}'),l={name:"采薇.md"},t=p("",18),c=[t];function n(o,i,d,r,h,g){return e(),a("div",null,c)}const b=s(l,[["render",n]]);export{u as __pageData,b as default};

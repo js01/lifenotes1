@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,Q as e}from"./chunks/framework.9e4cf7f6.js";const u=JSON.parse('{"title":"我没有说话","description":"","frontmatter":{},"headers":[],"relativePath":"我没有说话.md","filePath":"我没有说话.md"}'),l={name:"我没有说话.md"},p=e("",2),o=[p];function c(t,r,i,_,d,y){return a(),n("div",null,o)}const m=s(l,[["render",c]]);export{u as __pageData,m as default};
