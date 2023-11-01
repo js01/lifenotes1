@@ -1,0 +1,1 @@
+import{_ as e,o as _,c as t,Q as a}from"./chunks/framework.9e4cf7f6.js";const f=JSON.parse('{"title":"重温《丑小鸭的故事》","description":"","frontmatter":{},"headers":[],"relativePath":"重温《丑小鸭的故事》.md","filePath":"重温《丑小鸭的故事》.md"}'),p={name:"重温《丑小鸭的故事》.md"},o=a("",10),r=[o];function s(c,n,i,d,l,h){return _(),t("div",null,r)}const u=e(p,[["render",s]]);export{f as __pageData,u as default};

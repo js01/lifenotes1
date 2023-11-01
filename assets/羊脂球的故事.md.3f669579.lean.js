@@ -1,0 +1,1 @@
+import{_ as e,o as p,c as t,Q as a}from"./chunks/framework.9e4cf7f6.js";const f=JSON.parse('{"title":"羊脂球的故事","description":"","frontmatter":{},"headers":[],"relativePath":"羊脂球的故事.md","filePath":"羊脂球的故事.md"}'),_={name:"羊脂球的故事.md"},o=a("",14),r=[o];function s(c,n,i,d,l,h){return p(),t("div",null,r)}const u=e(_,[["render",s]]);export{f as __pageData,u as default};
