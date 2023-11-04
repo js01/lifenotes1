@@ -1,0 +1,1 @@
+import{_ as p,o as e,c as t,Q as _}from"./chunks/framework.9e4cf7f6.js";const f=JSON.parse('{"title":"常见事故类型总结","description":"","frontmatter":{},"headers":[],"relativePath":"常见事故类型总结.md","filePath":"常见事故类型总结.md"}'),a={name:"常见事故类型总结.md"},o=_("",30),r=[o];function s(c,n,i,d,l,h){return e(),t("div",null,r)}const u=p(a,[["render",s]]);export{f as __pageData,u as default};
